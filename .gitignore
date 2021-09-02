@@ -1,0 +1,8 @@
+/node_modules/
+/.idea/
+/.env
+/package-lock.json
+/.DS_Store
+/client/node_modules/
+/client/package-lock.json
+/client/README.md
