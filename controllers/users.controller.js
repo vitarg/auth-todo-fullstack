@@ -1,5 +1,6 @@
 const bcrypt = require("bcrypt");
-const User = require("../models/users.model");
+const User = require("../models/User.model");
+
 
 module.exports.usersController = {
   registerUser: async (req, res) => {
